@@ -46,9 +46,16 @@ The GitHub User Explorer WebApp is a client side application that fetches and di
 
 ## Project Working Screenshots
 
+<img width="1359" height="721" alt="Screenshot 2025-07-16 000157" src="https://github.com/user-attachments/assets/f26dffb8-b8c2-42dd-a61e-9dc73931ac63" />
 
+<img width="1364" height="767" alt="Screenshot 2025-07-16 000348" src="https://github.com/user-attachments/assets/dcdba6ea-cb1c-40a9-86c9-28dad7e570b9" />
+
+<img width="1365" height="766" alt="Screenshot 2025-07-16 000401" src="https://github.com/user-attachments/assets/9ca83cbb-a495-43a2-bc8f-07e38fe7dcac" />
+
+<img width="1365" height="767" alt="Screenshot 2025-07-16 000419" src="https://github.com/user-attachments/assets/5bd249e6-cf72-4da3-bfa6-234bf3cedb5a" />
 
 ## Installation
+
 
 ### 1. Clone the repository
 
