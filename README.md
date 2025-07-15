@@ -23,13 +23,13 @@ The GitHub User Explorer WebApp is a client-side application that fetches and di
 
 ## Key Features
 
-- 🔍 Search any GitHub username in real time  
-- 📊 Display followers, following, public repos, and bio  
-- 📦 List latest repositories with live metadata  
-- ⏳ Smooth animated loading state while fetching  
-- 💻 Fully responsive on mobile, tablet, and desktop  
-- 🎨 Custom color palette and modern visual styling  
-- 😎 Emoji-enhanced interactive UI  
+- Search any GitHub username in real time  
+- Display followers, following, public repos, and bio  
+- List latest repositories with live metadata  
+- Smooth animated loading state while fetching  
+- Fully responsive on mobile, tablet, and desktop  
+- Custom color palette and modern visual styling  
+- Emoji-enhanced interactive UI  
 
 ---
 
@@ -46,13 +46,7 @@ The GitHub User Explorer WebApp is a client-side application that fetches and di
 
 ## Project Working Screenshots
 
-> *(Replace these with your actual screenshots)*
 
-![Screenshot 1](https://github.com/yourusername/assets/demo-screenshot1.png)  
-![Screenshot 2](https://github.com/yourusername/assets/demo-screenshot2.png)  
-![Screenshot 3](https://github.com/yourusername/assets/demo-screenshot3.png)
-
----
 
 ## Installation
 
