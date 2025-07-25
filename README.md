@@ -1,4 +1,4 @@
-# GitHub User Explorer WebApp 
+# GitHub User Explorer WebApp  
  
 An interactive and visually rich GitHub profile viewer built using **HTML**, **CSS**, and **JavaScript**, featuring a modern UI, real time GitHub API integration, and animated components. This web app allows users to search any GitHub username and instantly view their profile, repositories, and metadata all in a polished, responsive layout.
  
