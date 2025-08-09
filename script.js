@@ -24,7 +24,7 @@ searchBtn.addEventListener("click", searchUser);
 searchInput.addEventListener("keypress", (e) => {
   if (e.key === "Enter") searchUser();
 });
-
+ 
 async function searchUser() {
   const username = searchInput.value.trim();
 
@@ -163,6 +163,7 @@ function formatDate(dateString) {
 
 searchInput.value = "dkumar0501";
 searchUser();
+
 
 
 
