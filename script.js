@@ -8,7 +8,7 @@ const usernameElement = document.getElementById("username");
 const bioElement = document.getElementById("bio");    
 const locationElement = document.getElementById("location");   
 const joinedDateElement = document.getElementById("joined-date");
-const profileLink = document.getElementById("profile-link");
+const profileLink = document.getElementById("profile-link"); 
 const followers = document.getElementById("followers");
 const following = document.getElementById("following"); 
 const repos = document.getElementById("repos");
@@ -163,6 +163,7 @@ function formatDate(dateString) {
 
 searchInput.value = "dkumar0501";
 searchUser();
+
 
 
 
