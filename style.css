@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-} 
+}  
 
 :root {
   --primary-color: #547792;
@@ -405,5 +405,6 @@ body.light .repo-name {
 .hidden {
   display: none;
 }
+
 
 
