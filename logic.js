@@ -11,7 +11,7 @@ const joinedDateElement = document.getElementById("joined-date");
 const profileLink = document.getElementById("profile-link");  
 const followers = document.getElementById("followers");
 const following = document.getElementById("following"); 
-const repos = document.getElementById("repos");
+const repos = document.getElementById("repos"); 
 const companyElement = document.getElementById("company");
 const blogElement = document.getElementById("blog");
 const twitterElement = document.getElementById("twitter");
@@ -163,6 +163,7 @@ function formatDate(dateString) {
 
 searchInput.value = "burakorkmez";
 searchUser();
+
 
 
 
