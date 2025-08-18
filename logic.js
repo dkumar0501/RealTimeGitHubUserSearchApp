@@ -1,5 +1,5 @@
 const searchInput = document.getElementById("search");
-const searchBtn = document.getElementById("search-btn");       
+const searchBtn = document.getElementById("search-btn");        
 const profileContainer = document.getElementById("profile-container");   
 const errorContainer = document.getElementById("error-container");      
 const avatar = document.getElementById("avatar");    
@@ -163,6 +163,7 @@ function formatDate(dateString) {
 
 searchInput.value = "burakorkmez";
 searchUser();
+
 
 
 
