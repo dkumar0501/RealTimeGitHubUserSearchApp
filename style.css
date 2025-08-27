@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0; 
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }  
   
 :root { 
@@ -405,6 +405,7 @@ body.light .repo-name {
 .hidden {
   display: none;
 }
+
 
 
 
