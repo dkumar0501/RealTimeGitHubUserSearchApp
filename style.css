@@ -3,7 +3,7 @@
   margin: 0;
   box-sizing: border-box;
 }  
-
+ 
 :root {
   --primary-color: #547792;
   --primary-light: #94B4C1; 
@@ -405,6 +405,7 @@ body.light .repo-name {
 .hidden {
   display: none;
 }
+
 
 
 
