@@ -161,8 +161,9 @@ function formatDate(dateString) {
   });
 }
 
-searchInput.value = "dkumar0501";
+searchInput.value = "prometheus";
 searchUser();
+
 
 
 
