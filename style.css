@@ -9,7 +9,7 @@
   --primary-light: #94B4C1;  
   --accent-color: #ECEFCA; 
   --bg-dark: #213448;
-  --card-bg: #2e4a60;
+  --card-bg: #2e4a60; 
   --text-light: #ffffff;  
   --text-gray: #d0d7dd; 
   --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.2);
@@ -405,6 +405,7 @@ body.light .repo-name {
 .hidden {
   display: none;
 }
+
 
 
 
