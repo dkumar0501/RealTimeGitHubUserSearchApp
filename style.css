@@ -12,7 +12,7 @@
   --card-bg: #2e4a60;   
   --text-light: #ffffff;  
   --text-gray: #d0d7dd; 
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.2); 
   --border-radius: 10px;
 }
 
@@ -405,6 +405,7 @@ body.light .repo-name {
 .hidden {
   display: none;
 }
+
 
 
 
