@@ -47,7 +47,7 @@ It leverages the **GitHub REST API** to fetch user data and repositories dynamic
    - Bio, followers/following count  
    - A list of latest public repositories with stars and forks  
 
-## 📷 Project Working Screenshots
+## 📷 Project Working Video
 
 https://github.com/user-attachments/assets/d87b0616-c663-470b-bb00-b4fb058b6fbe
 
