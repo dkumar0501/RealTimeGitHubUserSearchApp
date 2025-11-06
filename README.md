@@ -15,12 +15,11 @@
 
 ## 📘 Overview
 
-The **GitHub User Explorer WebApp** is an **interactive frontend project** that enables users to **search and explore GitHub profiles in real time**.  
-It leverages the **GitHub REST API** to fetch user data and repositories dynamically while maintaining a **smooth, modern, and responsive user interface** built entirely with **HTML, CSS, and Vanilla JavaScript** — no backend required.
+The **GitHub User Explorer WebApp** is an interactive frontend project that enables users to search and explore GitHub profiles in real time. It leverages the GitHub REST API to fetch user data and repositories dynamically while maintaining a smooth, modern, and responsive user interface built entirely with HTML, CSS, and Vanilla JavaScript, no backend required.
 
 ## 🚀 Features
 
-- Real-time GitHub username search with instant results  
+- Real Time GitHub username search with instant results  
 - Displays followers, following, repositories, and bio dynamically  
 - Animated loading screen for seamless user experience  
 - Responsive design optimized for desktop, tablet, and mobile  
