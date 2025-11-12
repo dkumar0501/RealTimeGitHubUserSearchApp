@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Frontend • JavaScript • API Integration • UI/UX • GitHub REST API</strong>
-</p>
+</p> 
  
 <!-- Badges -->  
 <p align="left">  
